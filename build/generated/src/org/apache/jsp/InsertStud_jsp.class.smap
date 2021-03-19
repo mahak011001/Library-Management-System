@@ -1,0 +1,14 @@
+SMAP
+InsertStud_jsp.java
+JSP
+*S JSP
+*F
++ 0 InsertStud.jsp
+InsertStud.jsp
++ 1 fheader.jsp
+fheader.jsp
+*L
+1:50
+1#1,129:51
+2#0,108:179
+*E

@@ -1,0 +1,22 @@
+SMAP
+DeleteBook_jsp.java
+JSP
+*S JSP
+*F
++ 0 DeleteBook.jsp
+DeleteBook.jsp
++ 1 fheader.jsp
+fheader.jsp
+*L
+1,2:52
+1#1,129:54
+3#0,2:182
+5:12
+5,45:184
+50,14:230
+63,13:244
+76,7:257,3
+83,10:278
+93,3:289
+95,5:292
+*E
